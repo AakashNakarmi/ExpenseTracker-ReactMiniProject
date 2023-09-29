@@ -7,8 +7,9 @@
 
 # My Learnings
 1. Passing Data to Components using props
-2. Taking input from form and schema based validation of forms using Zod
+2. Taking input from form by using react-hook-form and schema based validation of forms using Zod
 3. Updating Components State Data using useState
 4. Filtering the record and displaying it
 5. Event Listeners and its manipulation
 6. Use of interfaces and components for loose-coupling and reusability
+7. Use of bootstrap for styling
